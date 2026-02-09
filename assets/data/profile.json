@@ -1,6 +1,6 @@
 {
   "name": "Alexandre F. Nacimento",
-  "photo": "/assets/data/img/Foto5.jpg",
+  "photo": "https://raw.githubusercontent.com/alexandrefnas/portifolio/main/assets/data/img/Foto5.jpg",
   "job": "Desenvolvedor Full Stack",
   "location": "Uberlândia - MG",
   "phone": "(34) 9 9670-9041",
@@ -9,7 +9,7 @@
     "hardSkills": [
       {
         "name": "Angular",
-        "logo": "/assets/data/img/toolscolor/angular.png"
+        "logo": "https://raw.githubusercontent.com/alexandrefnas/portifolio/main/assets/data/img/toolscolor/angular.png"
       },
       {
         "name": "TypeScript",
