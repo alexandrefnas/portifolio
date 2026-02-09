@@ -13,47 +13,47 @@
       },
       {
         "name": "TypeScript",
-        "logo": "/assets/data/img/toolscolor/typescript.png"
+        "logo": "https://raw.githubusercontent.com/alexandrefnas/portifolio/main/assets/data/img/toolscolor/typescript.png"
       },
       {
         "name": "Nodejs",
-        "logo": "/assets/data/img/toolscolor/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/alexandrefnas/portifolio/main/assets/data/img/toolscolor/nodejs.png"
       },
       {
         "name": "JavaScript",
-        "logo": "/assets/data/img/toolscolor/js.png"
+        "logo": "https://raw.githubusercontent.com/alexandrefnas/portifolio/main/assets/data/img/toolscolor/js.png"
       },
       {
         "name": "React",
-        "logo": "/assets/data/img/toolscolor/react.png"
+        "logo": "https://raw.githubusercontent.com/alexandrefnas/portifolio/main/assets/data/img/toolscolor/react.png"
       },
       {
         "name": "Html",
-        "logo": "/assets/data/img/toolscolor/html.png"
+        "logo": "https://raw.githubusercontent.com/alexandrefnas/portifolio/main/assets/data/img/toolscolor/html.png"
       },
       {
         "name": "CSS",
-        "logo": "/assets/data/img/toolscolor/css.png"
+        "logo": "https://raw.githubusercontent.com/alexandrefnas/portifolio/main/assets/data/img/toolscolor/css.png"
       },
       {
         "name": "C#",
-        "logo": "/assets/data/img/toolscolor/csharp.png"
+        "logo": "https://raw.githubusercontent.com/alexandrefnas/portifolio/main/assets/data/img/toolscolor/csharp.png"
       },
       {
         "name": "Dotnet",
-        "logo": "/assets/data/img/toolscolor/dotnet.svg"
+        "logo": "https://raw.githubusercontent.com/alexandrefnas/portifolio/main/assets/data/img/toolscolor/dotnet.svg"
       },
       {
         "name": "Docker",
-        "logo": "/assets/data/img/toolscolor/docker.png"
+        "logo": "https://raw.githubusercontent.com/alexandrefnas/portifolio/main/assets/data/img/toolscolor/docker.png"
       },
       {
         "name": "MySql",
-        "logo": "/assets/data/img/toolscolor/mysql.png"
+        "logo": "https://raw.githubusercontent.com/alexandrefnas/portifolio/main/assets/data/img/toolscolor/mysql.png"
       },
       {
         "name": "Github",
-        "logo": "/assets/data/img/tools/github.svg"
+        "logo": "https://raw.githubusercontent.com/alexandrefnas/portifolio/main/assets/data/img/tools/github.svg"
       }
     ],
     "softSkills": [
