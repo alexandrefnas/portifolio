@@ -1,0 +1,97 @@
+{
+  "name": "Alexandre F. Nacimento",
+  "photo": "/assets/data/img/Foto5.jpg",
+  "job": "Desenvolvedor Full Stack",
+  "location": "Uberlândia - MG",
+  "phone": "(34) 9 9670-9041",
+  "email": "alexandrefnas@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Angular",
+        "logo": "/assets/data/img/toolscolor/angular.png"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "/assets/data/img/toolscolor/typescript.png"
+      },
+      {
+        "name": "Nodejs",
+        "logo": "/assets/data/img/toolscolor/nodejs.png"
+      },
+      {
+        "name": "JavaScript",
+        "logo": "/assets/data/img/toolscolor/js.png"
+      },
+      {
+        "name": "React",
+        "logo": "/assets/data/img/toolscolor/react.png"
+      },
+      {
+        "name": "Html",
+        "logo": "/assets/data/img/toolscolor/html.png"
+      },
+      {
+        "name": "CSS",
+        "logo": "/assets/data/img/toolscolor/css.png"
+      },
+      {
+        "name": "C#",
+        "logo": "/assets/data/img/toolscolor/csharp.png"
+      },
+      {
+        "name": "Dotnet",
+        "logo": "/assets/data/img/toolscolor/dotnet.svg"
+      },
+      {
+        "name": "Docker",
+        "logo": "/assets/data/img/toolscolor/docker.png"
+      },
+      {
+        "name": "MySql",
+        "logo": "/assets/data/img/toolscolor/mysql.png"
+      },
+      {
+        "name": "Github",
+        "logo": "/assets/data/img/tools/github.svg"
+      }
+    ],
+    "softSkills": [
+      "Trabalho em equipe.",
+      "Liderança.",
+      "Proativo.",
+      "Comunicativo.",
+      "Pensamento Analítico."
+    ]
+  },
+  "languages": ["Português BR"],
+  "portfolio": [
+    {
+      "name": "Sistema de Gestão: OS, financeiro e clientes",
+      "url": "(PRIVADO)",
+      "github": false
+    },
+    {
+      "name": "Pagina Anúncio",
+      "url": "https://site.oliversistemas.com.br/",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Full Stack",
+      "period": "2025 - até o momento",
+      "description": "Atuo no desenvolvimento de páginas web para divulgação e na criação de aplicações web em Angular, com integração a banco de dados. Desenvolvo sistemas voltados para cadastro e gerenciamento de produtos e serviços, focando em performance, usabilidade e organização do projeto."
+    },
+    {
+      "name": "Socio Propreietário",
+      "period": "2012 - 2023",
+      "description": "Negócio próprio. Quadra de Esportes. Agendamento de horários para práticas esportivas (futsal, vôlei)."
+    },
+    {
+      "name": "Supervisor de Produção",
+      "period": "2000 - 2012",
+      "description": "Gestão de pessoas, montagem de linha de processo, levantamento de custos, mapa de perdas, confecção de fluxograma, Levantamento das tarefas críticas, montagem de índices de rendimento e faturamento, desenvolvimento de boas práticas, montagem de padrão operacional e padrão dos produtos, aplicação do manufatura fabril. Analise de produção e rendimentos, geração de relatórios gerenciais e mapeamentos, controle de plano de produção (OTIF), controle de capacidade de produção, Cronoanálise, Consolidação de dados. Navegação no ambiente SAP."
+    }
+  ]
+}
